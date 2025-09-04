@@ -5,4 +5,4 @@ C- language learning process
 *C language question*
     ** C language project calculator **
 ~~text~~   
-    git status
+   git status
